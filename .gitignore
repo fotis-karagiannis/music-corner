@@ -1,0 +1,30 @@
+# Compiled Java files
+*.class
+
+# Logs and JVM crash reports
+*.log
+hs_err_pid*
+replay_pid*
+
+# Generated build output
+build/
+dist/
+out/
+
+# NetBeans private metadata
+**/nbproject/private/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Packaged Java archives are normally ignored, but this legacy project
+# keeps its required local dependency JARs under libs/.
+*.jar
